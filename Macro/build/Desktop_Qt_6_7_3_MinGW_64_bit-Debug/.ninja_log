@@ -1,0 +1,27 @@
+# ninja log v6
+46	258	7496336245163338	Macro_autogen/mocs_compilation.cpp	f216383dcf8b907c
+46	258	7496336245163338	Macro_autogen/timestamp	f216383dcf8b907c
+46	258	7496336245163338	C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Macro_autogen/timestamp	f216383dcf8b907c
+46	258	7496336245163338	C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Macro_autogen/mocs_compilation.cpp	f216383dcf8b907c
+5741	6114	7496336302115653	Macro.exe	b6ae480677be097
+1003	4314	7496288316851842	CMakeFiles/Macro.dir/main.cpp.obj	e7f67ac1452b8a45
+999	4116	7496288316811834	CMakeFiles/Macro.dir/Macro_autogen/mocs_compilation.cpp.obj	6594a1dddf940fa8
+259	5740	7496336247298760	CMakeFiles/Macro.dir/mainwindow.cpp.obj	2b9f8b806922b36d
+43	234	7496338014919147	Macro_autogen/timestamp	f216383dcf8b907c
+43	234	7496338014919147	Macro_autogen/mocs_compilation.cpp	f216383dcf8b907c
+43	234	7496338014919147	C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Macro_autogen/timestamp	f216383dcf8b907c
+43	234	7496338014919147	C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Macro_autogen/mocs_compilation.cpp	f216383dcf8b907c
+236	5403	7496338016853095	CMakeFiles/Macro.dir/mainwindow.cpp.obj	2b9f8b806922b36d
+5403	5744	7496338068529819	Macro.exe	b6ae480677be097
+43	240	7496338537012439	Macro_autogen/timestamp	f216383dcf8b907c
+43	240	7496338537012439	Macro_autogen/mocs_compilation.cpp	f216383dcf8b907c
+43	240	7496338537012439	C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Macro_autogen/timestamp	f216383dcf8b907c
+43	240	7496338537012439	C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Macro_autogen/mocs_compilation.cpp	f216383dcf8b907c
+242	5310	7496338539129004	CMakeFiles/Macro.dir/mainwindow.cpp.obj	2b9f8b806922b36d
+5310	5631	7496338589823463	Macro.exe	b6ae480677be097
+25	227	7496340826864995	Macro_autogen/timestamp	f216383dcf8b907c
+25	227	7496340826864995	Macro_autogen/mocs_compilation.cpp	f216383dcf8b907c
+25	227	7496340826864995	C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Macro_autogen/timestamp	f216383dcf8b907c
+25	227	7496340826864995	C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Macro_autogen/mocs_compilation.cpp	f216383dcf8b907c
+229	5259	7496340828899899	CMakeFiles/Macro.dir/mainwindow.cpp.obj	2b9f8b806922b36d
+5259	5614	7496340879207112	Macro.exe	b6ae480677be097

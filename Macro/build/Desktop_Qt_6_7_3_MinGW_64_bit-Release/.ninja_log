@@ -1,0 +1,9 @@
+# ninja log v6
+11	953	7496343437090305	Macro_autogen/timestamp	ae49207440b0bba0
+11	953	7496343437090305	Macro_autogen/mocs_compilation.cpp	ae49207440b0bba0
+11	953	7496343437090305	C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Release/Macro_autogen/timestamp	ae49207440b0bba0
+11	953	7496343437090305	C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Release/Macro_autogen/mocs_compilation.cpp	ae49207440b0bba0
+967	3416	7496343438134770	CMakeFiles/Macro.dir/main.cpp.obj	5a40009f6940cdb8
+963	3519	7496343438134770	CMakeFiles/Macro.dir/Macro_autogen/mocs_compilation.cpp.obj	b85ff5909d3e50bd
+970	5927	7496343438134770	CMakeFiles/Macro.dir/mainwindow.cpp.obj	19d1a36d98b63e3c
+5931	6151	7496343487830514	Macro.exe	8fc379dfec428726

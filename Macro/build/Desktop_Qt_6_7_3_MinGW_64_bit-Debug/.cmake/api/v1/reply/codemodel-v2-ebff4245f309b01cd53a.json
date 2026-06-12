@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-067dfde9d7d1cfcf975f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Macro",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Macro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Macro-Debug-7f284439852fe784adc1.json",
+					"name" : "Macro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Macro_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Macro_autogen-Debug-1d03ca154236fd33233e.json",
+					"name" : "Macro_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Macro_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Macro_autogen_timestamp_deps-Debug-ea917d112007d25ac2a3.json",
+					"name" : "Macro_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Kushal Shakya/Documents/Macro"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

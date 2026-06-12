@@ -1,0 +1,9 @@
+C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/Macro.dir
+C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/Macro_autogen_timestamp_deps.dir
+C:/Users/Kushal Shakya/Documents/Macro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/Macro_autogen.dir
