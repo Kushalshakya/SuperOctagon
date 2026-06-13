@@ -24,18 +24,22 @@ int main(){
 
         for(int i=0; i<sizeOfArr; i++){
             if(line.find(knownLabels[i]) != string::npos){
-                // cout << "Found " << knownLabels[i] << "\n";
                 knownLabelsCounter[i]++;
             }
         }   
         totalLogEntries++;
     }
 
-    cout << "Total Log Entries: " << totalLogEntries << endl;
-    cout << "Known Labels:" << endl;
+    cout << "========================================\n";
+    cout << "| Total Log Entries: " << totalLogEntries << "\n";
+    cout << "========================================\n";
+    cout << "| Labels:" << endl;
     for(int i=0; i<5; i++){
-        cout << knownLabels[i] << ": " << knownLabelsCounter[i] << endl;
+        cout << "|    " << knownLabels[i] << ": " << knownLabelsCounter[i] << endl;
     }
+    cout << "========================================\n";
+
+    
 
     myFile.close();
     return 0;
