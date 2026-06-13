@@ -13,15 +13,15 @@ utilizes C++ for the core logic and Qt for the graphical user interface (GUI), e
 
 Before running the application, make sure you have the following installed:
 
-- **Qt** (version 5.15 or later) – for GUI components and cross-platform compatibility.
-- **C++ Compiler** (such as GCC or MSVC) – for building the application.
-- **CMake** (optional but recommended) – for building the project.
+- **Qt** (version 5.15 or later) for GUI components and cross-platform compatibility.
+- **C++ Compiler** (such as GCC or MSVC) for building the application.
+- **CMake** (optional but recommended) for building the project.
 
 ## Installation
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Kushalshakya/Macro
+    git clone https://github.com/Kushalshakya/SuperOctagon
     cd Macro
     ```
 
